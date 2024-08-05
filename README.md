@@ -2,8 +2,8 @@
 
 Um projeto de um website wiki de pokemon ainda em desenvolvimento.
 
-* O site se encontra em um forma crua, sem responsividade e design simples
-* Apenas a uma página feita e a mesma está incompleta
+* O site se encontra em um forma crua, pouca responsividade e design simples
+* Apenas uma página feita e a mesma está incompleta
 
 Projeto feito para uma atividade simples da faculdade e talvez tenha continuidade.
 
